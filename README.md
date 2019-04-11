@@ -1,0 +1,2 @@
+# ADSKruskal
+Domáca úloha
